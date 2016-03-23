@@ -1,10 +1,10 @@
 == README
 ###Alecs Konson - remove this line later###
 
-This README would normally document whatever steps are necessary to get the
+This README file documents all of the steps that are necessary to get the
 application up and running.
 
-Things you may REALLY want to cover:
+Things to cover:
 
 * Ruby version
 
@@ -16,7 +16,7 @@ Things you may REALLY want to cover:
 
 * Database initialization
 
-* How to run the test suite
+* How to run the test Suite
 
 * Services (job queues, cache servers, search engines, etc.)
 
