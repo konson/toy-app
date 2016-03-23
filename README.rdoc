@@ -1,9 +1,14 @@
 == README
+###Alecs Konson - remove this line later###
 
 This README file documents all of the steps that are necessary to get the
 application up and running.
 
+<<<<<<< HEAD
 Things to cover:
+=======
+Things you may REALLY want to cover:
+>>>>>>> a7866074d6f67f4d60c69ccd612088188378aa70
 
 * Ruby version
 
